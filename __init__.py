@@ -1,0 +1,1 @@
+from .LolCrawler import loader
